@@ -28,7 +28,7 @@ Developed a CLI-based tool where users input advertising budgets.
 The model predicts and displays the expected product sales.
 
 # Tools & Technologies Used
-1. Language: Python 🐍
+1. Language: Python 
 2. Libraries:
 pandas, numpy – Data analysis and preprocessing
 matplotlib, seaborn – Visualization
