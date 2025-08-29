@@ -1,4 +1,4 @@
-# OIBSIP_Data-science_task5
+# Sales Prediction using Python
 # Objective of the Task
 The objective of this project is to develop a Linear Regression model that predicts product sales based on advertising budgets allocated to TV, Radio, and Newspaper. The model helps understand the effectiveness of each advertising medium and provides an estimate of expected sales based on given inputs.
 
